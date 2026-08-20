@@ -81,6 +81,3 @@ Application becomes available again
 | CloudWatch | Provides metrics used for scaling |
 
 ---
-
-
-**Important:** Upload the contents of the project folder so that `README.md`, `screenshots/`, and `docs/` appear directly in the repository root. Do not create an unnecessary extra `aws-highly-available-web-app/` folder inside the repository.
