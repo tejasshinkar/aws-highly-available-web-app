@@ -82,39 +82,5 @@ Application becomes available again
 
 ---
 
-## GitHub Repository Structure
-
-```text
-aws-highly-available-web-app/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── ...
-│
-└── docs/
-    ├── Project-Documentation.pdf
-    └── Project-Documentation.docx
-```
-
-### Uploading the Project
-
-On the GitHub **Add file → Upload files** page, you can upload the prepared project contents together.
-
-Drag the contents of the local project folder into the GitHub upload area:
-
-```text
-aws-highly-available-web-app/
-│
-├── README.md
-├── screenshots/
-│   ├── ...
-│
-└── docs/
-    ├── PDF
-    └── DOCX
-```
-
-GitHub should preserve the folder structure.
 
 **Important:** Upload the contents of the project folder so that `README.md`, `screenshots/`, and `docs/` appear directly in the repository root. Do not create an unnecessary extra `aws-highly-available-web-app/` folder inside the repository.
