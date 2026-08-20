@@ -80,14 +80,6 @@ Application becomes available again
 | Launch Template | Defines how replacement instances are launched |
 | CloudWatch | Provides metrics used for scaling |
 
-## Documentation
-
-Detailed project documentation, implementation evidence, testing and screenshots are available in [`docs/`](./docs/).
-
-## Screenshots
-
-Implementation screenshots are available in [`screenshots/`](./screenshots/).
-
 ---
 
 ## GitHub Repository Structure
